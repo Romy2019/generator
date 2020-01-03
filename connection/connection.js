@@ -1,5 +1,5 @@
 var mongoose=require("mongoose")
-mongoose.connect('mongodb://localhost/projectlibrary');
+mongoose.connect('mongodb://localhost/goodbits');
 
 var db = mongoose.connection;
 

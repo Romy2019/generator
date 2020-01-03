@@ -5,16 +5,14 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('generator:server');
+var debug = require('debug')('goodbits:server');
 var http = require('http');
-
+const db_connection = require('../connection/connection');
 /**
  * Get port from environment and store in Express.
  */
 
 var port = normalizePort(process.env.PORT || '2000');
-console.log("PORT IS "+ port);
-
 app.set('port', port);
 
 /**
