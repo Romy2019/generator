@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ea6a303-1e1f-42cb-a021-96927dd9df55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connection/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/connection/connection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/user/listUsers.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/user/listUsers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/user/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/user/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/user/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/user/signup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +80,9 @@
       <option name="presentableId" value="Default" />
       <updated>1577503883930</updated>
       <workItem from="1577503885228" duration="2086000" />
-      <workItem from="1578030165092" duration="409000" />
+      <workItem from="1578030165092" duration="1324000" />
+      <workItem from="1578295449434" duration="320000" />
+      <workItem from="1578307449285" duration="671000" />
     </task>
     <servers />
   </component>
